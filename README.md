@@ -1,2 +1,0 @@
-# IMASA
-IMASA's website
